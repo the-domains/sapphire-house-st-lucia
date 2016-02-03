@@ -1,0 +1,28 @@
+name: 'Sapphire House, St. Lucia'
+favicon: null
+layout_spectrum: 0.5539314944762737
+typography_spectrum: 0.14169007842428982
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.03393053729087114
+  lightness: 0.8649327007587999
+  saturation: 0.8607164227869362
+  rhythmicContrast: 0.8582118642516434
+purpose: []
